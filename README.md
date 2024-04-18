@@ -16,8 +16,8 @@ Getting Started
 To get started with web automation testing using ID locators, follow these steps:
 
 Clone this repository to your local machine.
-Install the necessary dependencies as specified in the requirements.txt file.
-Explore the tests directory to understand the test scripts provided.
+Install the necessary dependencies.
+Explore the directory to understand the test scripts provided.
 Run the test scripts using your preferred testing framework.
 Customize and expand the test suite according to your specific testing requirements.
 Contributing
