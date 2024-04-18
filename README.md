@@ -23,7 +23,7 @@ Run the test scripts using your preferred testing framework.
 Customize and expand the test suite according to your specific testing requirements.
 
 ## **Contributing**
-Contributions to this project are not currently open to the public. However, I appreciate any feedback or suggestions you may have. If you encounter any issues or have ideas for improvement, please feel free to reach out to me directly.
+Contributions to this project are currently open to the public. However, I appreciate any feedback or suggestions you may have. If you encounter any issues or have ideas for improvement, please feel free to reach out to me directly.
 
 ## **License**
 This project is licensed under the MIT License.
